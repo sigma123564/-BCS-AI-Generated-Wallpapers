@@ -1,0 +1,486 @@
+每次只处理当前这一次上传或当前指定的单张图片，并且只输出一张独立的3:4竖版海报。
+
+【最高优先级规则】
+1. 当前图片必须视为一个完全独立的新作品。
+2. 不得调用、拼接、引用、延续、重复展示之前生成过的任何图片、海报或构图。
+3. 不得生成系列总览、contact sheet、多图拼贴、多张海报并列、左右对比、前后作品组合。
+4. 最终画面只能有一个3:4竖版画布、一个完整作品。
+5. “上下两个区域”只指当前这一张海报内部的版式结构，不代表两张图片拼接。
+
+请将当前上传的照片设计成一张高级、克制、有艺术出版物气质的 editorial poster。
+
+整体采用3:4竖版构图，上下两个区域高度约1:1，各占50%。
+
+━━━━━━━━━━━━━━━━━━
+【上半部分：原始摄影】
+━━━━━━━━━━━━━━━━━━
+
+上半部分保留当前原始照片。
+
+必须保持：
+- 主体身份
+- 面部特征
+- 人物结构
+- 原始姿态
+- 人物之间的关系
+- 真实摄影质感
+- 自然光影
+- 原图主要色彩氛围
+
+只允许进行轻微、高级、克制的调色，使其呈现：
+high-end editorial photography / independent magazine / exhibition image / art publication
+
+为适配3:4版式，可以自然扩展照片边缘的环境，但不得：
+- 拉伸人物
+- 扭曲身体
+- 改变身份
+- 改变动作
+- 替换服装
+- 改变人物关系
+- 重新设计原始场景
+
+上半部分必须仍然明显是一张真实摄影照片，而不是插画。
+
+━━━━━━━━━━━━━━━━━━
+【下半部分：Editorial Doodle Illustration】
+━━━━━━━━━━━━━━━━━━
+
+下半部分根据上方原始照片进行重新提炼和视觉重构。
+
+风格为：
+
+Hand-drawn Doodle Lifestyle Illustration
+Naive Editorial Illustration
+Marker Drawing
+Crayon / Oil Pastel / Colored Pencil Sketch
+Contemporary Art-book Illustration
+
+不要完整复制原照片。
+
+只提取最有识别性的：
+- 核心人物
+- 人物姿态
+- 人物关系
+- 标志性道具
+- 场景空间结构
+- 光影方向
+- 与剧情有关的视觉线索
+
+必须主动删除大量无关细节，但不能把所有背景全部删掉。
+
+【重要：保留 Scene Architecture】
+
+下半部分必须保留原场景中1–3个最关键的背景结构，用于维持空间感和剧情识别度。
+
+Preserve the scene architecture, not the scene details.
+
+可选择保留：
+- 房间轮廓
+- 墙角
+- 门框
+- 窗户
+- 百叶窗
+- 桌椅
+- 床
+- 电视
+- 汽车
+- 道路
+- 建筑轮廓
+- 家具几何关系
+- 光线方向
+- 地面线
+- 走廊结构
+- 阴影边界
+
+这些背景结构不得写实完整描绘。
+
+只能通过：
+- 极简轮廓
+- 断续线条
+- 少量结构线
+- 不完整几何形
+- 浅色块
+- 局部阴影
+- 手绘痕迹
+
+进行表达。
+
+大约保留20%–35%的关键环境信息，其余内容主动删减。
+
+禁止将下半部分处理成：
+“两个小人物 + 一大片完全空白纸面”。
+
+必须仍然能够隐约感受到：
+人物在哪里、空间是什么、场景关系是什么。
+
+━━━━━━━━━━━━━━━━━━
+【手绘造型】
+━━━━━━━━━━━━━━━━━━
+
+人物和物体造型必须：
+- 简化
+- 符号化
+- 松弛
+- 不完全准确
+- 有个人性
+- 有手工感
+
+线条使用：
+- 轻微抖动
+- 断续
+- 不完全闭合
+- 不完全平直
+- 不机械
+- 不工整
+
+涂色采用：
+- 马克笔
+- 蜡笔
+- 油画棒
+- 彩铅
+- 干燥笔触
+
+允许：
+- 轻微越线
+- 局部露白
+- 不均匀涂色
+- 笔压变化
+- 手工误差
+- 比例轻微失真
+- 不严格透视
+- 局部省略
+
+不要追求写实比例、完整透视和精细描摹。
+
+━━━━━━━━━━━━━━━━━━
+【留白与构图】
+━━━━━━━━━━━━━━━━━━
+
+下半部分必须以：
+large intentional negative space
+为核心。
+
+但这里的留白是“结构性留白”，不是“什么都没有”。
+
+画面约55%–70%可以维持为空白或极低信息密度区域。
+
+留白必须由以下元素共同组织：
+人物
+背景结构
+文字
+少量线条
+少量色块
+
+形成有意识的负空间。
+
+主体允许：
+- 偏心
+- 靠边
+- 悬置
+- 局部裁切
+- 不对称摆放
+- 与文字错位
+- 与背景结构形成呼应
+
+避免：
+- 机械居中
+- 上下对齐
+- 左右平均
+- 填满版面
+- 海报模板式排版
+
+宁可少画，但不能让作品看起来像“还没画完”。
+
+整体应该有：
+稚拙的画法
+成熟的构图
+克制的信息量
+清晰的视觉节奏
+
+━━━━━━━━━━━━━━━━━━
+【颜色】
+━━━━━━━━━━━━━━━━━━
+
+下半部分配色必须严格克制。
+
+仅使用：
+2–3种主色
++
+黑色或深灰线条
++
+暖白色纸张背景
+
+如果原图颜色复杂，必须主动舍弃大部分颜色。
+
+只保留最有记忆点的一组色彩关系。
+
+例如：
+紫色 + 棕色 + 黑色
+绿色 + 黄色 + 黑色
+蓝色 + 灰色 + 黑色
+
+具体配色根据当前图片决定。
+
+整体必须：
+少色
+轻色
+净色
+统一
+低噪音
+
+禁止：
+- 彩虹配色
+- 高饱和糖果色
+- 过多辅助色
+- 花哨渐变
+- 霓虹视觉
+
+━━━━━━━━━━━━━━━━━━
+【剧情文字：非常重要】
+━━━━━━━━━━━━━━━━━━
+
+当前素材来自：
+Breaking Bad
+或
+Better Call Saul
+
+下半部分的文字不能只是根据画面表面氛围随意创作文艺句子。
+
+必须尽可能根据当前图片对应的：
+- 具体剧情
+- 当前场景
+- 人物关系
+- 人物当时所处阶段
+- 重要事件
+- 伏笔
+- 后续命运
+- 标志性物件
+- 地点
+- 剧情主题
+
+来提炼文字。
+
+文字优先从以下内容中选择：
+
+1. 当前场景真正发生的事件
+2. 当前人物关系的真实状态
+3. 这一幕对后续剧情的意义
+4. 与场景直接相关的重要物品
+5. 与场景有关的地点
+6. 剧情中的核心概念
+7. Season / Episode
+8. 人物名字
+9. 与剧情真实相关的数字、金额、化学符号、房间号、地址等
+10. 当前场景附近真实存在的短台词或其核心语义
+
+【核心判断标准】
+
+换成另一张剧照以后，这组文字就不应该依然成立。
+
+如果一句话可以无差别套用到很多情侣照、人物照、电影剧照中，那么这句话不够具体，必须重新生成。
+
+禁止使用这类generic poetic captions：
+
+ONE LAST NIGHT
+FOREVER
+TOGETHER
+GOOD TIMES
+OUR STORY
+A QUIET MOMENT
+JUST US
+MEMORIES
+LOVE
+STAY
+ONE MORE NIGHT
+
+除非这些文字确实与当前剧情存在明确对应关系。
+
+不要为了“看起来文艺”而编造假台词。
+
+如果无法可靠判断具体剧情，宁可使用：
+人物姓名
+地点
+Season / Episode
+标志性物件
+真实剧情关键词
+
+也不要虚构具体剧情信息。
+
+━━━━━━━━━━━━━━━━━━
+【文字数量】
+━━━━━━━━━━━━━━━━━━
+
+文字必须非常少。
+
+最多使用：
+1组主文字
++
+0–2组极小辅助文字
+
+主文字通常控制在：
+1–5个词
+
+不要求完整句子。
+
+可以使用：
+人物姓名
+地点
+物件名称
+剧情关键词
+Season / Episode
+数字
+短语
+极短句
+
+不要：
+- 长段文案
+- 多段说明
+- 菜单式标题
+- 满版文字
+- 大量英文句子
+
+━━━━━━━━━━━━━━━━━━
+【图文关系】
+━━━━━━━━━━━━━━━━━━
+
+文字与插画必须整体设计，而不是后期简单加字。
+
+先建立隐形网格、视觉轴线和阅读路径。
+
+文字可以：
+- 贴近人物轮廓
+- 靠近道具
+- 沿背景结构排列
+- 落在大面积负空间中
+- 与主体形成错位
+- 与人物产生不对称呼应
+- 小范围穿插
+
+避免：
+- 正中央大标题
+- 标题+副标题标准模板
+- 商业海报式整齐排版
+- 文字全部堆在左下角
+- 固定模板重复使用
+
+字体使用：
+自然
+轻巧
+略带字宽差异
+略有笔压变化
+真实手写感
+
+不要标准商业字体。
+
+━━━━━━━━━━━━━━━━━━
+【整体目标】
+━━━━━━━━━━━━━━━━━━
+
+最终效果应体现：
+
+稚拙的画
++
+成熟的构图
++
+准确的剧情提炼
++
+聪明的图文关系
++
+结构性大留白
++
+少色克制
++
+杂志级视觉品味
+
+整体感觉接近：
+
+high-end independent magazine
+editorial illustration
+contemporary art book
+lifestyle publication
+art-school publication
+gallery printed matter
+
+而不是：
+儿童手帐
+粉丝周边
+廉价卡通
+可爱贴纸
+普通照片滤镜
+商业电影海报
+
+━━━━━━━━━━━━━━━━━━
+【Negative Prompt】
+━━━━━━━━━━━━━━━━━━
+
+previous generated image,
+previous poster,
+previous artwork,
+reuse previous composition,
+collage,
+contact sheet,
+multiple posters,
+multiple artworks in one image,
+side-by-side posters,
+series overview,
+split-screen comparison,
+
+pure empty background,
+completely blank lower half,
+isolated character floating on white paper,
+deleting all environmental context,
+
+complete background reproduction,
+copy entire original scene,
+copy every character,
+copy every prop,
+full scene reconstruction,
+too many background details,
+too many characters,
+
+overly realistic drawing,
+photorealistic illustration,
+complex perspective,
+precise anatomy,
+mechanical clean line art,
+vector-like line,
+3D render,
+cel shading,
+thick digital painting,
+
+too many colors,
+rainbow palette,
+high saturation candy colors,
+neon colors,
+visual clutter,
+
+full-page composition,
+oversized subject,
+random icons,
+random doodles,
+sticker collage,
+children scrapbook style,
+cute diary style,
+cheap cartoon style,
+fan merchandise style,
+
+formal commercial poster,
+corporate poster layout,
+movie poster template,
+centered title,
+long paragraph,
+too much text,
+information overload,
+template design,
+
+generic romantic quote,
+generic poetic caption,
+fake quote,
+invented dialogue,
+text unrelated to the specific plot,
+
+AI plastic look,
+over-polished digital look,
+sterile vector style.
+
+最终只生成当前这一张独立海报，不得包含此前任何作品。
